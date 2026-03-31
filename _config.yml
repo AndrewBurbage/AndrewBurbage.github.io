@@ -1,7 +1,6 @@
 # Site settings
-# These are used to personalize your new site.
-title: Andrew Burbage # your name here
-logo: "/images/pfp.jpeg?raw=true" # your photo (or logo) here
+title: Andrew Burbage
+logo: "/images/pfp.jpeg?raw=true" # pfp
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
@@ -11,7 +10,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://www.linkedin.com/in/andrew-burbage-48542a345">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
-github_username:  AndrewBurbage # update with your username
+github_username:  AndrewBurbage
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
