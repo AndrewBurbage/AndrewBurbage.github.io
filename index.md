@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Algorithms Ethics Paper](/pdf/Algorithms Ethics.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 415 Algorithms**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Survey of Scripting Ethics Paper: Ethics of Artificial Intelligence](/pdf/Survey Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 Survey of Scripting** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [PEthical Implications of Cybersecurity Analyst Access](/pdf/Cyber Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 405 Principles of Cybersecurity** 
+-   **Grade: A**
 
 ---
 
