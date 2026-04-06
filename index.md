@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 301 Survey of Scripting** 
 -   **Grade: A**
 
-### [Ethical Implications of Cybersecurity Analyst Access](/pdf/CyberEthics.pdf)
+### [Ethical Implications of Cybersecurity Analyst Access](/pdf/CyberEithics.pdf)
 
 -   **Class: CSCI 405 Principles of Cybersecurity** 
 -   **Grade: A**
