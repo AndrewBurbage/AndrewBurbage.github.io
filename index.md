@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Wordle Emulator (Group Project) | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Wordle Emulator](wordle3.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
