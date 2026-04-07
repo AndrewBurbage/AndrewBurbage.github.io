@@ -79,16 +79,16 @@ While playing, the user enters a guess using the on-screen or physical keyboard 
 
 Upon completion (win or loss), a results screen appears displaying the target word, the number of attempts used, and two buttons: "Play Again" to start a new game with the same settings, and "Quit" to return to the home screen (see Fig 4).
 
-![screenshot](images/wordle1.png)  
+![screenshot](pdf/wordle1.png)  
 Fig 1. The home/customization screen where word size and number of guesses are selected.
 
-![screenshot](images/wordle2.png)  
+![screenshot](pdf/wordle2.png)  
 Fig 2. The empty game board at the start of the game.
 
-![screenshot](images/wordle3.png)  
+![screenshot](pdf/wordle3.png)  
 Fig 3. The game board during a game, displaying color-coded feedback after guesses.
 
-![screenshot](images/wordle4.png)  
+![screenshot](pdf/wordle4.png)  
 Fig 4. The win/loss results screen with "Play Again" and "Quit" options.
 
 ## 3. Additional Considerations
