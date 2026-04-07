@@ -1,48 +1,97 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Wordle Emulator
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 325 Object Oriented Programming** 
+-   **Grade: A** 
+-   **Language: Java** 
+-   **Source Code Repository:** [Wordle Emulator](https://github.com/koimcf2005/WordleGroupProject)  
+    (Please [email me](apburbage@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The project consists of a game made to look and act like Wordle from the New York Times, it uses Java Swing for the user interface. The ability to change word size and taunting replies upon sucess or failure to guess were additional features that were added.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+---
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+### 1. Verify Requirements
+
+-- Install NetBeans 20+ (or any version supporting JDK 21).  
+-- Install JDK 21 and set it as a recognized Java Platform in NetBeans.  
+
+The project requires Java 21 because the properties file includes:  
+`javac.source=21` and `javac.target=21`.
+
+---
+
+### 2. Import the Project into NetBeans
+
+1. Start NetBeans.  
+2. Go to **File → Open Project**.  
+3. Select the **WordleGroupProject** directory (the one containing nbproject/).  
+4. NetBeans will detect it as an **Ant Java Project**.  
+5. Click **Open Project**.
+
+---
+
+### 3. Set the Java Platform
+
+Right-click the project → **Properties** → **Libraries**.
+Choose **JDK 21** as the active platform.  
+
+---
+
+### 4. Build and Run the Project
+
+#### Build  
+Right-click the project → **Build**  
+
+#### Run  
+Right-click the project → **Run**.
+
+---
+
+### 7. Clean the Project
+
+Right-click → **Clean**  
+
+---
+
+### 8. Running the JAR Manually
+
+After building, you can run the program from a terminal using the following command:
+
+`java -jar dist/WordleGroupProject.jar`
+
+---
+
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The user starts on the home screen, where they can choose the game's difficulty by selecting the word length (4 to 11 letters) and the max number of guesses (4 to 10 attempts) (see Fig 1). After confirming their choices and pressing "Start," the game board appears with a blank grid ready for input (see Fig 2). 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+While playing, the user enters a guess using the on-screen or physical keyboard and submits it. Each letter tile is immediately color-coded: green for correct letter in the right position, yellow for correct letter in the wrong position, and gray for letters not in the word. This process repeats until the user correctly guesses the word or runs out of guesses (see Fig 3). 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Upon completion (win or loss), a results screen appears displaying the target word, the number of attempts used, and two buttons: "Play Again" to start a new game with the same settings, and "Quit" to return to the home screen (see Fig 4).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/wordle1.png)  
+Fig 1. The home/customization screen where word size and number of guesses are selected.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/wordle2.png)  
+Fig 2. The empty game board at the start of the game.
+
+![screenshot](images/wordle3.png)  
+Fig 3. The game board during a game, displaying color-coded feedback after guesses.
+
+![screenshot](images/wordle4.png)  
+Fig 4. The win/loss results screen with "Play Again" and "Quit" options.
 
 ## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This project is a Windows-only executable and will not run on macOS or Linux.
 
 [Back to Portfolio](./)
