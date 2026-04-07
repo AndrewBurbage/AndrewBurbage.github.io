@@ -11,7 +11,7 @@ Wordle Emulator
 
 ## Project description
 
-The project consists of a game made to look and act like Wordle from the New York Times, it uses Java Swing for the user interface. The ability to change word size and taunting replies upon sucess or failure to guess were additional features that were added.
+The project consists of a game made to look and act like Wordle from the New York Times, it uses Java Swing for the user interface. The ability to change word size, guess count, and taunting replies upon sucess or failure to guess were additional features that were added.
 
 ## How to compile and run the program
 
