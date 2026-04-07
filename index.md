@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Wordle Emulator (Group Project) | CSCI 325](project3)
 
-![Wordle Emulator](wordle3.png)
+![Wordle Emulator](pdf/wordle3.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
