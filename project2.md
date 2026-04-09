@@ -27,7 +27,7 @@ python app.py
 
 Usage Flow Included In Documentation
 
-![screenshot](images\UsageFlow1P2.png)  
+![screenshot](images\Project2.png)  
 Fig 1. The launch screen
 
 ![screenshot](images\UsageFlow2P2.png)  
