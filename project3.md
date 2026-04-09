@@ -7,7 +7,7 @@ Wordle Emulator
 -   **Grade: A** 
 -   **Language: Java** 
 -   **Source Code Repository:** [Wordle Emulator](https://github.com/koimcf2005/WordleGroupProject)  
-    (Please [email me](apburbage@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](APBurbage@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
