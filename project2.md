@@ -7,7 +7,7 @@ ForeCite Citation Parser
 -   **Grade:** A
 -   **Language(s):** Python, HTML
 -   **Source Code Repository:** [Source Code:](https://github.com/AndrewBurbage/csci495-Fall25-blueTeam-citationParser)  
-    (Please [email me](mailto:apburbage@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:APBurbage@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
