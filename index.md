@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [ForeCite (Group Project) | CSCI 496](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![ForeCite(Group Project)](images/Project2.png)
 
 ---
 ### [Wordle Emulator (Group Project) | CSCI 325](project3)
