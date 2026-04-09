@@ -1,47 +1,45 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+ForeCite Citation Parser
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 496
+-   **Grade:** A
+-   **Language(s):** Python, HTML
+-   **Source Code Repository:** [Source Code:](https://github.com/AndrewBurbage/csci495-Fall25-blueTeam-citationParser)  
+    (Please [email me](mailto:apburbage@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Medical University of South Carolina (MUSC) conducts extensive research that relies heavily on accurate citations and literature review. Currently, researchers and students must manually extract and organize citations from research papers, a process that is both time-consuming, resource-intensive, and error-prone. Given the volume of publications produced and reviewed by MUSC, this inefficiency creates delays in research workflows and increases the risk of inaccuracies in research at MUSC. To address this issue, this project applies the Systems Development Life Cycle (SDLC) to design and implement an automated citation extraction system. This solution will leverage a local Large Language Model (LLM) to identify citations, capture their context, and generate summaries of their relevance, with results stored in a structured database. By streamlining citation management, MUSC researchers will benefit from reduced administrative workload, greater accuracy, and improved efficiency.
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
+Included in Repository (See README and Requirements.txt)
 
 ```bash
-cd ./project
-python setup.py
+cd ./frontend
+python app.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Usage Flow Included In Documentation
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images\UsageFlow1P2.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images\UsageFlow2P2.png)  
+Fig 2. Example output after file is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images\UsageFlow3P2.png)  
+Fig 3. Example of searching for documents
 
-## 3. Additional Considerations
+![screenshot](images\UsageFlow4P2.png)  
+Fig 3. Example of document deletion
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
