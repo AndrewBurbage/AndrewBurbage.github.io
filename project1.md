@@ -6,7 +6,7 @@ Discreet Dispatch
 -   **Class: Senior Project CSCI 499** 
 -   **Grade: To Be Determined** 
 -   **Language(s): Kotlin & Javascript** 
--   **Source Code Repository:** [CSU-Senior-Project]((https://github.com/AndrewBurbage/CSU-Senior-Project/tree/master))  
+-   **Source Code Repository:** [CSU-Senior-Project](https://github.com/AndrewBurbage/CSU-Senior-Project/tree/master)  
     (Please [email me](mailto:APBurbage@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
