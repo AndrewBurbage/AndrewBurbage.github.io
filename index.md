@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:APBurbage@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [CSU Senior Project: Discreet Dispatch | CSCI 499](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![CSU Senior Project: Discreet Dispatch](images/HomePage.png)
 
 ---
 ### [ForeCite (Group Project) | CSCI 496](project2)
@@ -20,11 +20,6 @@ Programming Projects
 ### [Wordle Emulator (Group Project) | CSCI 325](project3)
 
 ![Wordle Emulator](images/wordle3.png)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
