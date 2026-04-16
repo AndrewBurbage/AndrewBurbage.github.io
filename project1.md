@@ -27,7 +27,7 @@ Having selected an emergency type/responder the user is given a series of questi
 After Filling out all of the questions the user will see a large “FINISH” button at the bottom of the page (Fig. 5-7). Upon clicking on this button they will be brought to a review page(Fig. 8 & 9). Here, their script that has been formed from the questions they previously answered will be displayed. This allows the user to quickly review their answer before confirming they want to place the call with that script. If there are errors they can simply press back and they will be able to edit their responses or even pick a different emergency responder/type. Once satisfied with their response they will click a button below the script that says “INITIATE EMEREGENCY CALL” followed by a warning in red that states tapping the button “will trigger an automated voice call to the dispatch center.” Having clicked the button the user will receive a toast at the bottom of the screen that states: “Call started successfully!” after being taken back to the prompt page(Fig. 10). From here they can either close the app or double check their responses in case an additional call needs to be placed due to new information or more accurate information.
 
 
-![screenshot](images/Homepage.png)  
+![screenshot](images/HomePage.png)  
 Fig 1. The launch screen
 
 ![screenshot](images/PoliceTop.png)  
