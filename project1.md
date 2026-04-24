@@ -14,7 +14,7 @@ Discreet Dispatch
 The project is to create an application that would allow users to answer a series of questions similar to those given by a dispatcher that would then be turned into a text to speech recording to be played over a phone call from the user to local emergency services. This allows for an effective and discrete silent 911 call. When the user opens the app and begins to fill out the prompts given, the responses will be stored and used to form a script that will be turned into an audio recording using text to speech. From there a call will be placed to the local dispatch where the script will be played allowing actual dispatchers to collect the needed information to deploy first responders effectively. This allows the user to be discreet or to make an audible call they are incapable of while also allowing dispatchers to get most of the needed information in one concise interaction.
 
 **Requirements Document with Test Plan and Results:** 
-* [Proposal](https://github.com/AndrewBurbage/CSU-Senior-Project/blob/master/docs/Proposal.md)(
+* [Proposal](https://github.com/AndrewBurbage/CSU-Senior-Project/blob/master/docs/Proposal.md)
 * [Requirements with Test Cases/Results](https://github.com/AndrewBurbage/CSU-Senior-Project/blob/master/docs/Requirements.md)
 * [Implementation Description & Explanation](https://github.com/AndrewBurbage/CSU-Senior-Project/blob/master/docs/Senior%20Project%20Implementation%20Description%20%26%20Explanation.pdf)
 * [Testing Plan](https://github.com/AndrewBurbage/CSU-Senior-Project/blob/master/docs/TestingPlan.md)
